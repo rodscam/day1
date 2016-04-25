@@ -1,0 +1,2 @@
+1. Learn Git!
+2. Learn the difference between Git and GitHub!
